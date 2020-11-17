@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "",
+      "origin": "https://mb3admin.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://crackemby.neko.re",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+  ]
+}
